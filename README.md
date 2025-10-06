@@ -18,7 +18,7 @@ I love building **scalable web and mobile applications**, experimenting with **A
 ## 🧠 What I'm Working On
 
 - 🚀 Building **IdeaBliss**, an AI-powered educational ecosystem  
-- 🤖 Experimenting with **Ollama models (LLaMA, Gemma, Phi, Mistral, Mixtral, Falcon)**  
+- 🤖 Experimenting with **Ollama models** (LLaMA, Gemma, Phi, Mistral, Mixtral, Falcon)  
 - ☁️ Enhancing my **Cloud + DevOps** stack for scalable deployments  
 - 📱 Developing **Flutter-based cross-platform apps**  
 - ⚙️ Contributing to open-source projects and system design learning  
@@ -73,6 +73,7 @@ I love building **scalable web and mobile applications**, experimenting with **A
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- Public + Private commits counted safely via token -->
   <img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Aditya's GitHub Stats" />
 </p>
 
@@ -84,7 +85,18 @@ I love building **scalable web and mobile applications**, experimenting with **A
   <img src="https://github-contributor-stats.vercel.app/api?username=ideabliss&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Total Contributions" />
 </p>
 
+---
 
+## 🏆 Achievements
+
+- 🥇 **Founder of IdeaBliss** — AI-powered educational innovation platform  
+- 🚀 **Built 10+ full-stack projects** (React, Flutter, Node.js, Cloud)  
+- ☁️ **Deployed & automated cloud systems** using AWS, Docker & Kubernetes  
+- 🧠 **Integrated Ollama LLMs** (LLaMA, Gemma, Phi, Mistral, Mixtral) for AI apps  
+- 🧑‍🏫 **Mentored students & developers** in project-based learning & AI tools  
+- 🏅 **Active open-source contributor** — public & private projects  
+
+---
 
 ## 🌐 Connect With Me
 
