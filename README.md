@@ -18,7 +18,7 @@ I love building **scalable web and mobile applications**, experimenting with **A
 ## 🧠 What I'm Working On
 
 - 🚀 Building **IdeaBliss**, an AI-powered educational ecosystem  
-- 🤖 Experimenting with **Ollama models (LLaMA, Mistral, Mixtral, )**  
+- 🤖 Experimenting with **Ollama models (LLaMA, Gemma, Phi, Mistral, Mixtral, Falcon)**  
 - ☁️ Enhancing my **Cloud + DevOps** stack for scalable deployments  
 - 📱 Developing **Flutter-based cross-platform apps**  
 - ⚙️ Contributing to open-source projects and system design learning  
@@ -58,8 +58,33 @@ I love building **scalable web and mobile applications**, experimenting with **A
 
 ---
 
+## 💼 Featured Projects
+
+| Project | Description |
+|----------|--------------|
+| **🚜 AgroPath** | AI-powered platform for farmers providing real-time insights and crop guidance |
+| **💼 EaseHire** | Smart job portal with ML-driven job matching |
+| **🧠 PlanCraft** | AI-based demand forecasting and production scheduling system |
+| **🩺 HealthTech Suite** | Health monitoring platform powered by LLaMA models |
+| **🎓 IdeaBliss Academy** | AI-enabled mentorship and project development ecosystem |
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Aditya's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ideabliss&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ideabliss&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Total Contributions" />
+</p>
+
+
 
 ## 🌐 Connect With Me
 
