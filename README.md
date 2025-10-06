@@ -73,16 +73,16 @@ I love building **scalable web and mobile applications**, experimenting with **A
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Public + Private commits counted safely via token -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Aditya's GitHub Stats" />
+  <!-- Total Contributions this year -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=ideabliss&theme=radical&combine_all_yearly_contributions=true" alt="Total Contributions" width="400" />
+  &nbsp;&nbsp;
+  <!-- Total Commits (public + private) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Commits" width="400" />
 </p>
 
 <p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=ideabliss&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ideabliss&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Total Contributions" />
 </p>
 
 ---
