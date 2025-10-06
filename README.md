@@ -77,7 +77,7 @@ I love building **scalable web and mobile applications**, experimenting with **A
   <img src="https://github-contributor-stats.vercel.app/api?username=ideabliss&theme=radical&combine_all_yearly_contributions=true" alt="Total Contributions" width="400" />
   &nbsp;&nbsp;
   <!-- Total Commits (public + private) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Total Commits" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&count_private=true&include_all_commits=true&theme=radical&token=YOUR_TOKEN" alt="Total Commits" />
 </p>
 
 <p align="center">
