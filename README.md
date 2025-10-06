@@ -21,7 +21,6 @@ I love building **scalable web and mobile applications**, experimenting with **A
 - 🤖 Experimenting with **Ollama models** (LLaMA, Mistral, )  
 - ☁️ Enhancing my **Cloud + DevOps** stack for scalable deployments  
 - 📱 Developing **Flutter-based cross-platform apps**  
-- ⚙️ Contributing to open-source projects and system design learning  
 
 ---
 
