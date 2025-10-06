@@ -1,15 +1,10 @@
 
-
-<!--
-**ideabliss/ideabliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">👋 Hi, I'm Aditya Shinde</h1>
 <p align="center">
   <em>Founder of <strong>IdeaBliss</strong> | Full-Stack Developer | Cloud & DevOps Engineer | Flutter & AI Enthusiast</em>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -95,20 +90,12 @@ I love building **scalable web and mobile applications**, experimenting with **A
 ## 🌐 Connect With Me
 
 - 🧑‍💻 **Website:** [https://ideabliss.in](https://ideabliss.in)  
-- 📧 **Email:** [contact@ideabliss.in](mailto:contact@ideabliss.in)  
-- 🐙 **GitHub:** [github.com/ideabliss](https://github.com/ideabliss)  
+- 📧 **Email:** [contact@ideabliss.in](adityashinde7979@gmail.com)  
+- 🐙 **GitHub:** [github.com/ideabliss](https://in.linkedin.com/in/aditya-shinde45)  
 - 📍 **Location:** Pune, Maharashtra, India  
 
 ---
 
 <p align="center">✨ Built with ❤️ by <strong>Aditya Shinde</strong> | Founder of <strong>IdeaBliss</strong> ✨</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
