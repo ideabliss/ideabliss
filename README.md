@@ -1,10 +1,9 @@
-
 <h1 align="center">👋 Hi, I'm Aditya Shinde</h1>
 <p align="center">
   <em>Founder of <strong>IdeaBliss</strong> | Full-Stack Developer | Cloud & DevOps Engineer | Flutter & AI Enthusiast</em>
 </p>
 
-
+---
 
 ## 🚀 About Me
 
@@ -19,7 +18,7 @@ I love building **scalable web and mobile applications**, experimenting with **A
 ## 🧠 What I'm Working On
 
 - 🚀 Building **IdeaBliss**, an AI-powered educational ecosystem  
-- 🤖 Experimenting with **Ollama models (LLaMA, Gemma, Phi, Mistral, Mixtral, Falcon)**  
+- 🤖 Experimenting with **Ollama models (LLaMA, Mistral, Mixtral, )**  
 - ☁️ Enhancing my **Cloud + DevOps** stack for scalable deployments  
 - 📱 Developing **Flutter-based cross-platform apps**  
 - ⚙️ Contributing to open-source projects and system design learning  
@@ -59,43 +58,17 @@ I love building **scalable web and mobile applications**, experimenting with **A
 
 ---
 
-## 💼 Featured Projects
-
-| Project | Description |
-|----------|--------------|
-| **🚜 AgroPath** | AI-powered platform for farmers providing real-time insights and crop guidance |
-| **💼 EaseHire** | Smart job portal with ML-driven job matching |
-| **🧠 PlanCraft** | AI-based demand forecasting and production scheduling system |
-| **🩺 HealthTech Suite** | Health monitoring platform powered by LLaMA models |
-| **🎓 IdeaBliss Academy** | AI-enabled mentorship and project development ecosystem |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ideabliss&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideabliss&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideabliss&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 - 🧑‍💻 **Website:** [https://ideabliss.in](https://ideabliss.in)  
-- 📧 **Email:** [contact@ideabliss.in](adityashinde7979@gmail.com)  
-- 🐙 **GitHub:** [github.com/ideabliss](https://in.linkedin.com/in/aditya-shinde45)  
+- 📧 **Email:** [adityashinde7979@gmail.com](mailto:adityashinde7979@gmail.com)  
+- 💼 **LinkedIn:** [Aditya Shinde](https://in.linkedin.com/in/aditya-shinde45)  
+- 🐙 **GitHub:** [github.com/ideabliss](https://github.com/ideabliss)  
 - 📍 **Location:** Pune, Maharashtra, India  
 
 ---
 
 <p align="center">✨ Built with ❤️ by <strong>Aditya Shinde</strong> | Founder of <strong>IdeaBliss</strong> ✨</p>
-
-
